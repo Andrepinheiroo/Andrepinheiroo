@@ -14,6 +14,8 @@
     <img aling="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img aling="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
     <img aling="center" alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+### [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrepinheiroo&bg_color=1c1c24&color=2c8c8b&line=68b2c3&point=6c548c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ### 🚀 Apaixonado pela tecnologia. Sempre em busca de oportunidades para inovar e criar soluções.🚀
 </div>
