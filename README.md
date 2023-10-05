@@ -45,6 +45,14 @@
 <br>
 </div>
 
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Andrepinheiroo&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,Repositories,Issues,Organizations,Stars">
+ </div>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=footer"/>
 
 
