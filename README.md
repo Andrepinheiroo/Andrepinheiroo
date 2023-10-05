@@ -50,4 +50,4 @@
 
 <details align="left">
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Thanks+for+the+visit+%F0%9F%AB%B6%F0%9F%8F%BE"
+<img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Thanks+for+the+visit+🖖🏾"
