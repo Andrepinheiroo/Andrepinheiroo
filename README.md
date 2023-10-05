@@ -48,6 +48,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=footer"/>
 
 
-<details align="left">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Thanks+for+the+visit+🖖🏾"
+<details align="left"> 
+<p># Thanks for de visit 🫶🏾</p>
+<p>Contact</p>
+<a href = "mailto:andrepinheiro.code@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
