@@ -3,8 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+🖖🏾">
 
-
-
 <img align="right" alt="Developer vector" height="380" src="https://media.discordapp.net/attachments/1159596741277008025/1159597738179170355/Hand_coding-amico_2.png?ex=65319a8d&is=651f258d&hm=548efb468153350f925a77bc4b4f562816dce8f6a3015bc6a995348cdae13a60&=&width=600&height=600">
 
 <h1>
@@ -52,9 +50,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Andrepinheiroo&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,Repositories,Issues,Organizations,Stars">
  </div>
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=footer"/>
-
 
 <details align="left"> 
 <p># Thanks for de visit 🫶🏾</p>
