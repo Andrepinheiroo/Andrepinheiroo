@@ -37,6 +37,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepinheiroo&title_color=eac006&text_color=FFF&border_radius=3&border_color=eac006&icon_color=eac006&bg_color=05070e)
 <br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrepinheiroo&bg_color=05070e&color=fcfcfc&line=e3bb0d&point=f2eeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 <br><p align="centre"><b>Visitors</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andrepinheiroo}/count.svg"/></p> 
