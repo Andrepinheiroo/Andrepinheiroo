@@ -25,6 +25,7 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 
 </div>
 
@@ -34,7 +35,7 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepinheiroo&title_color=eac006&text_color=FFF&border_radius=3&border_color=eac006&icon_color=eac006&bg_color=05070e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepinheiroo&layout=compact&title_color=eac006&text_color=FFF&border_radius=3&border_color=eac006&icon_color=eac006&bg_color=05070e)
 <br>
 <!--[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrepinheiroo&bg_color=05070e&color=fcfcfc&line=e3bb0d&point=f2eeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
