@@ -10,7 +10,8 @@
     <span>André Pinheiro</span>
 </h1>
 
-<p align="justify">Front-end developer from Recife-PE, Brazil, Graduated in systems analysis and development. My first “Hello World” was when I came into contact with HTML, CSS and JavaScript.
+<p align="justify">Front-end developer from Recife-PE, Brazil, Graduated in systems analysis and development and 
+postgraduate degree in software engineerin, My first “Hello World” was when I came into contact with HTML, CSS and JavaScript.
 <br>
  Passionate about technology and enthusiastic about nerd culture, some of my hobbies are gaming, watching, sports and going to the gym.
 
