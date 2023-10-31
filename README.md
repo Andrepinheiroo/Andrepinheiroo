@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=header"/>
+'<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=header"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+🖖🏾">
@@ -11,7 +11,7 @@
 </h1>
 
 <p align="justify">Front-end developer from Recife-PE, Brazil, Graduated in systems analysis and development and 
-postgraduate degree in software engineerin, My first “Hello World” was when I came into contact with HTML, CSS and JavaScript.
+     currently doing postgraduate studies in software engineering, My first “Hello World” was when I came into contact with HTML, CSS and JavaScript.
 <br>
  Passionate about technology and enthusiastic about nerd culture, some of my hobbies are gaming, watching, sports and going to the gym.
 
