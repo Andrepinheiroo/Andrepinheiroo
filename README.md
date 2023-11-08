@@ -1,4 +1,4 @@
-'<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eac006&height=120&section=header"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+🖖🏾">
