@@ -3,12 +3,13 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+🖖🏾.">
 
-<img align="right" alt="Developer vector" height="380" src="https://media.discordapp.net/attachments/1159596741277008025/1159597738179170355/Hand_coding-amico_2.png?ex=65fca18d&is=65ea2c8d&hm=d502a157bd7e95e9264883e780b562ebb2a56c679eb25897d111cd442768970e&=&format=webp&quality=lossless&width=592&height=592">
-
 <h1>
      <img align="center" alt="Logo André Pinheiro" width="36px" src="https://media.discordapp.net/attachments/1159596741277008025/1159597153367367831/LOGO_AP.png?ex=65fca101&is=65ea2c01&hm=2282dc6da286914cc2e7641470fd7bd955d4239eec527e2c956c52d316c0bf22&=&format=webp&quality=lossless"></a>
     <span>André Pinheiro</span>
 </h1>
+
+<img align="right" alt="Developer vector" height="360"  src="https://media.discordapp.net/attachments/1159596741277008025/1159597716452692048/Code_typing-bro_1.png?ex=65fca187&is=65ea2c87&hm=36c2fda6adec735499e7d3ee5e192926042abad21cebc6687c235eff070c9519&=&format=webp&quality=lossless&width=500&height=500">
+
 
 <p align="justify">Front-end developer from Recife-PE, Brazil, Graduated in systems analysis and development and 
      currently doing postgraduate studies in software engineering, My first “Hello World” was when I came into contact with HTML, CSS and JavaScript.
@@ -36,6 +37,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepinheiroo&layout=compact&title_color=eac006&text_color=FFF&border_radius=3&border_color=eac006&icon_color=eac006&bg_color=05070e)
 <br>
+<br>
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrepinheiroo&bg_color=05070e&color=fcfcfc&line=e3bb0d&point=f2eeee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
@@ -43,6 +45,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Andrepinheiroo}/count.svg"/></p> 
 <br>
 </div>
+<br>
 
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
