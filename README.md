@@ -3,10 +3,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+🖖🏾.">
 
-<img align="right" alt="Developer vector" height="380" src="https://media.discordapp.net/attachments/1159596741277008025/1159597738179170355/Hand_coding-amico_2.png?ex=65319a8d&is=651f258d&hm=548efb468153350f925a77bc4b4f562816dce8f6a3015bc6a995348cdae13a60&=&width=600&height=600">
+<img align="right" alt="Developer vector" height="380" src="https://media.discordapp.net/attachments/1159596741277008025/1159597738179170355/Hand_coding-amico_2.png?ex=65fca18d&is=65ea2c8d&hm=d502a157bd7e95e9264883e780b562ebb2a56c679eb25897d111cd442768970e&=&format=webp&quality=lossless&width=592&height=592">
 
 <h1>
-     <img align="center" alt="Logo André Pinheiro" width="36px" src="https://media.discordapp.net/attachments/1159596741277008025/1159597153367367831/LOGO_AP.png?ex=65319a01&is=651f2501&hm=f7a7b88711b44166d9f20cd9387731de438624d1cdcf9a740c66645014acb52e&="></a>
+     <img align="center" alt="Logo André Pinheiro" width="36px" src="https://media.discordapp.net/attachments/1159596741277008025/1159597153367367831/LOGO_AP.png?ex=65fca101&is=65ea2c01&hm=2282dc6da286914cc2e7641470fd7bd955d4239eec527e2c956c52d316c0bf22&=&format=webp&quality=lossless"></a>
     <span>André Pinheiro</span>
 </h1>
 
