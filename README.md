@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Lucida+Sans&size=30&duration=8000&pause=3000&color=EAC006&background=4523FF00&center=true&vCenter=true&width=500&lines=Welcome+To+My+Profile+🖖🏾.">
 
 <h1>
-     <img align="center" alt="Logo André Pinheiro" width="36px" src="https://media.discordapp.net/attachments/1159596741277008025/1159597153367367831/LOGO_AP.png?ex=65fca101&is=65ea2c01&hm=2282dc6da286914cc2e7641470fd7bd955d4239eec527e2c956c52d316c0bf22&=&format=webp&quality=lossless"></a>
+     <img align="center" alt="" width="36px" src="https://media.discordapp.net/attachments/1159596741277008025/1159597153367367831/LOGO_AP.png?ex=65fca101&is=65ea2c01&hm=2282dc6da286914cc2e7641470fd7bd955d4239eec527e2c956c52d316c0bf22&=&format=webp&quality=lossless"></a>
     <span>André Pinheiro</span>
 </h1>
 
