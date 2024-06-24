@@ -8,7 +8,7 @@
     <span>André Pinheiro</span>
 </h1>
 
-<img align="right" alt="Developer vector" height="360"  src="https://media.discordapp.net/attachments/1159596741277008025/1159597716452692048/Code_typing-bro_1.png?ex=65fca187&is=65ea2c87&hm=36c2fda6adec735499e7d3ee5e192926042abad21cebc6687c235eff070c9519&=&format=webp&quality=lossless&width=500&height=500">
+<img align="right" alt="Developer vector" height="360"  src="https://i.imgur.com/OULN1yv.png">
 
 
 <p align="justify">Front-end developer from Recife-PE, Brazil, Graduated in systems analysis and development and 
