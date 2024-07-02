@@ -5,7 +5,6 @@
 
 <h1>
      <img align="center" alt="" width="36px" src="https://media.discordapp.net/attachments/1159596741277008025/1159597153367367831/LOGO_AP.png?ex=65fca101&is=65ea2c01&hm=2282dc6da286914cc2e7641470fd7bd955d4239eec527e2c956c52d316c0bf22&=&format=webp&quality=lossless"></a>
-    <span>André Pinheiro</span>
 </h1>
 
 <img align="right" alt="Developer vector" height="360"  src="https://i.imgur.com/OULN1yv.png">
