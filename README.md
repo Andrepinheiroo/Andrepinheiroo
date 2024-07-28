@@ -42,7 +42,7 @@
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepinheiroo&layout=compact&title_color=0FC2C0&text_color=FFF&border_radius=3&border_color=008F8C&icon_color=0FC2C0&bg_color=05070e)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrepinheiroo&layout=donut-vertical&&langs_count=8&title_color=0FC2C0&text_color=FFF&border_radius=3&border_color=008F8C&icon_color=0FC2C0&bg_color=05070e)
 <br>
 <br>
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrepinheiroo&bg_color=1F2024&color=fcfcfc&line=0FC2C0&point=005C53&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
